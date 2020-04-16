@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tmall fore(html+css):war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tmall_fore_html_css__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tmall fore(html+css)/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tmall fore(html+css)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

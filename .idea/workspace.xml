@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f22989b-8986-40d9-ba18-d7283071d2b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tmall_fore_html_css__war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmall fore(html+css).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery/2.0.0/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/navige.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/ProductImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/CategoryDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/OrderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/OrderItemDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ProductImageDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/PropertyDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/PropertyValueDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ReviewDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/util/DateUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Idea\workspace\YJ\tmall fore(html+css)\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abYtnRvkJveOhbogSSU9lgtVZF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f22989b-8986-40d9-ba18-d7283071d2b0" name="Default Changelist" comment="" />
+      <created>1587005977766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587005977766</updated>
+      <workItem from="1587005979816" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="187" key="FileChooserDialogImpl" timestamp="1587006778530">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="568" y="187" key="FileChooserDialogImpl/39.0.1497.864@39.0.1497.864" timestamp="1587006778530" />
+    <state x="289" y="14" key="SettingsEditor" timestamp="1587006376755">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="289" y="14" key="SettingsEditor/39.0.1497.864@39.0.1497.864" timestamp="1587006376755" />
+  </component>
+</project>
