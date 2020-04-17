@@ -1,54 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tmall fore(html+css):war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f22989b-8986-40d9-ba18-d7283071d2b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tmall_fore_html_css__war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmall fore(html+css).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/3.3.6/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/bootstrap/3.3.6/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery/2.0.0/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/navige.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/ProductImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Property.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/CategoryDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/OrderDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/OrderItemDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ProductDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ProductImageDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/PropertyDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/PropertyValueDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/ReviewDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/util/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall/src/tmall/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/navigate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/navige.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,8 +35,17 @@
       </set>
     </option>
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="ProjectId" id="1abYtnRvkJveOhbogSSU9lgtVZF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -85,18 +57,109 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmall" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/tmall_fore_html_css__war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="tmall fore(html+css):war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tmall_fore_html_css__war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_tmall_fore(html+css)" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9506" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tmall fore(html+css):war exploded" />
+        </option>
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -113,21 +176,113 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587005977766</updated>
-      <workItem from="1587005979816" duration="901000" />
+      <workItem from="1587005979816" duration="7258000" />
     </task>
+    <task id="LOCAL-00001" summary="4/16 创建">
+      <created>1587007017946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587007017946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4/16 创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/16 创建" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="187" key="FileChooserDialogImpl" timestamp="1587006778530">
+    <state x="243" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587011437771">
       <screen x="39" y="0" width="1497" height="864" />
     </state>
-    <state x="568" y="187" key="FileChooserDialogImpl/39.0.1497.864@39.0.1497.864" timestamp="1587006778530" />
+    <state x="243" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/39.0.1497.864@39.0.1497.864" timestamp="1587011437771" />
+    <state x="361" y="24" key="CommitChangelistDialog2" timestamp="1587007015601">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="361" y="24" key="CommitChangelistDialog2/39.0.1497.864@39.0.1497.864" timestamp="1587007015601" />
+    <state x="568" y="187" key="FileChooserDialogImpl" timestamp="1587007314268">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="568" y="187" key="FileChooserDialogImpl/39.0.1497.864@39.0.1497.864" timestamp="1587007314268" />
+    <state x="627" y="323" key="Github.ShareDialog" timestamp="1587007300600">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="627" y="323" key="Github.ShareDialog/39.0.1497.864@39.0.1497.864" timestamp="1587007300600" />
+    <state width="997" height="381" key="GridCell.Tab.0.bottom" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.0.bottom/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.0.center" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.0.center/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.0.left" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.0.left/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.0.right" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.0.right/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.1.bottom" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.1.bottom/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.1.center" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.1.center/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.1.left" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.1.left/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.1.right" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.1.right/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.2.bottom" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.2.bottom/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
+    <state width="997" height="381" key="GridCell.Tab.2.center" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.2.center/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.2.left" timestamp="1587019720715">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.2.left/39.0.1497.864@39.0.1497.864" timestamp="1587019720715" />
+    <state width="997" height="381" key="GridCell.Tab.2.right" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.2.right/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
+    <state width="997" height="381" key="GridCell.Tab.3.bottom" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.3.bottom/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
+    <state width="997" height="381" key="GridCell.Tab.3.center" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.3.center/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
+    <state width="997" height="381" key="GridCell.Tab.3.left" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.3.left/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
+    <state width="997" height="381" key="GridCell.Tab.3.right" timestamp="1587019720716">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state width="997" height="381" key="GridCell.Tab.3.right/39.0.1497.864@39.0.1497.864" timestamp="1587019720716" />
     <state x="289" y="14" key="SettingsEditor" timestamp="1587006376755">
       <screen x="39" y="0" width="1497" height="864" />
     </state>
     <state x="289" y="14" key="SettingsEditor/39.0.1497.864@39.0.1497.864" timestamp="1587006376755" />
+    <state x="380" y="165" key="Vcs.Push.Dialog.v2" timestamp="1587110805058">
+      <screen x="39" y="0" width="1497" height="864" />
+    </state>
+    <state x="380" y="165" key="Vcs.Push.Dialog.v2/39.0.1497.864@39.0.1497.864" timestamp="1587110805058" />
   </component>
 </project>
